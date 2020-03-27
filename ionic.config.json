@@ -1,5 +1,7 @@
 {
   "name": "faceIDLogin",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
